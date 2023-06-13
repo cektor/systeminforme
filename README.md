@@ -30,4 +30,4 @@ python3 main.py
 
 # Screenshot
 
-![Demo](cleaning.png) 
+![Demo](systeminforme-screen01.png) 
